@@ -3,8 +3,6 @@
   - 🚀 Rust
   - 💪 cryptograpy
   - 🧠 zero-knowledge proofs
-- :octocat: This is my pripary GitHub account.
-  - 🤷‍♂️ I simply didn't need one earlier.
 - ✍️ If you want to get in touch:
   - ⛔ don't
 - 🖖 Have a good one!
